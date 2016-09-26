@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build --no-cache -t didstopia/cachet:latest .
+docker build -t didstopia/cachet:latest .
